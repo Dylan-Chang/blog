@@ -10,6 +10,8 @@ CGI可以用任何一种语言编写，只要这种语言具有标准输入、�
 
 [概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM](http://www.nowamagic.net/librarys/veda/detail/1319)
 
+[搞不清FastCgi与PHP-fpm之间是个什么样的关系](https://segmentfault.com/q/1010000000256516)
+
 ## Computer Systems
 
 
@@ -36,6 +38,9 @@ fastcgi
    
 ## Schema
 ### IoT
+
+## Mysql
+[centos7 mysql数据库安装和配置](http://www.cnblogs.com/starof/p/4680083.html)
 
 ## Book
 Computer Systems: A Programmer's Perspective - 深入理解计算机系统
