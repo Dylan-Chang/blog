@@ -1,6 +1,8 @@
 # blog
 
 
+
+
 ## Tool
 - git - gitweb
 - markdwon - Mon
@@ -21,5 +23,6 @@ fastcgi
 查看有没有安装mysql 
    rpm -q mysql
    rpm -q mariadb
-   
- 
+   
+## Schema
+### IoT
