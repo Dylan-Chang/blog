@@ -48,3 +48,5 @@ Computer Systems: A Programmer's Perspective - 深入理解计算机系统
 Computer Networking：A Top-Down Approach － 计算机网络：自顶向下方法
 
 HTTP: The Definitive Guide by David Gourley / Brian Totty - HTTP权威指南
+
+Linux Command Line and Shell Scripting Bible
