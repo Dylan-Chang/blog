@@ -1,5 +1,8 @@
 # blog
 
+## Algorithm 
+Greatest Common Divisor
+
 ## Computer Networking
 
 ### CGI
