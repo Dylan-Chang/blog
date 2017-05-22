@@ -60,3 +60,5 @@ Linux Command Line and Shell Scripting Bible
 ## physics
 
 ### entropy 熵
+
+[熵：宇宙的终极规则](https://ruanyf.github.io/survivor/future/entropy.html)
