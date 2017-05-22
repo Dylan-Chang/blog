@@ -4,7 +4,10 @@
 ### Greatest Common Divisor
 ### Godel Incompleteness Theorems 哥德尔不完备定理
 ### Graph Theory 图论
+
 ## Math（foundation）
+
+### algebra(代数)
 
 ## Computer Networking
 
@@ -19,7 +22,12 @@ CGI可以用任何一种语言编写，只要这种语言具有标准输入、�
 [搞不清FastCgi与PHP-fpm之间是个什么样的关系](https://segmentfault.com/q/1010000000256516)
 
 ## Computer Systems
+
 ###  Concurrency and Parallelism 并发和并行
+
+### 2-valued signals(bits)
+
+### Boolean Algebra (布尔代数)
 
 ## Tool
 - git - gitweb
