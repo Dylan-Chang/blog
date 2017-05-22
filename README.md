@@ -57,5 +57,6 @@ HTTP: The Definitive Guide by David Gourley / Brian Totty - HTTP权威指南
 
 Linux Command Line and Shell Scripting Bible
 
-##physics
-### 
+## physics
+
+### entropy 熵
