@@ -36,6 +36,7 @@ CGI可以用任何一种语言编写，只要这种语言具有标准输入、�
 - nginx - openst
 - Homebrew - mac下的管理包
 - composer
+- blackfire.io - SensioLabs的Blackfire Profiler能自动收集代码执行数据，比如内存、CPU时间、硬盘I/O等，Homestead使得在应用中使用该profiler变得轻而易举。
 
 
 ## Linux
