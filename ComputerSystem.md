@@ -2,6 +2,12 @@
 
 ### 2.1 Information Storage
 
+In C, numeric constants starting with 0x or 0X are interpreted as being in hexadecimal.
+
+在C中, 以0x开头的数字常量被认为是十六进制.
+
+For example, we could write the number FA1D37B as 0xFA1D37B, as 0xfa1d37b, or even mixing upper and lower case, e.g., 0xFa1D37b.
+
 Hex digit     0 1 2 3 4 5 6 7
 
 Decimal value 0 1 2 3 4 5 6 7
