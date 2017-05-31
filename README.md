@@ -1,6 +1,9 @@
 # blog
+
 computer-science-thinking 
+
 computer-science-application
+
 computer-science-foundations
 
 ## Algorithm 
