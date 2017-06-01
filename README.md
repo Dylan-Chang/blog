@@ -1,5 +1,7 @@
 # blog
 
+## [正则](https://github.com/dichang/blog/blob/master/regular.md)
+
 computer-science-thinking 
 
 computer-science-application
