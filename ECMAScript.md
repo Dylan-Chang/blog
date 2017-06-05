@@ -1,7 +1,7 @@
 
 ## [Bootstrap] 
 ### Alert 
-
+使用ajax 显示 Alert
    $.ajax({
             url: 'ajax-route-save',
             type: "POST",
