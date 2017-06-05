@@ -6,9 +6,7 @@
 
 ## [Maps]()
 
-## JS & ECMAScript
-### [Bootstrap]
-### [jQuery]
+## [JS & ECMAScript](https://github.com/dichang/blog/blob/master/ECMAScript.md)
 
 computer-science-thinking 
 
