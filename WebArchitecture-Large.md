@@ -1,11 +1,15 @@
 #大规模web架构
 ## Server(Linux)
 
-cluster
+cluster(redundant)
 
 Load Balance
 
 redundant
+
+Squid 反向代理
+
+
 
 ## Mysql
 
