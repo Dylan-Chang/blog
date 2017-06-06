@@ -76,7 +76,15 @@ The subject of polymorphism is probably the most important in OOP. Using classes
     miau
     wuff
 
+### Abstract Methods and Classes
+When designing class hierarchies, you might want to partially leave certain methods for inheriting classes to implement.
 
+The class Shape would then be called an abstract class, meaning that it's not a class with complete functionality and is only meant to be inherited from. You cannot instantiate an abstract class.
+
+该类 Shape 将被称为一个抽象类，这意味着它不是一个具有完整功能的类，只是想被继承。无法实例化一个抽象类。
+
+### inheritance 
+Class inheritance enables you to describe a parent-child relationship between classes. For example, you might have a base class Shape from which both Square and Circle derive. However, you might often want to add additional "interfaces" to classes, basically meaning additional contracts to which the class must adhere. This is achieved in C++ by using multiple inheritance and deriving from two classes. PHP chose interfaces as an alternative to multiple inheritance, which allows you to specify additional contracts a class must follow. An interface is declared similar to a class but only includes function prototypes (without implementation) and constants. Any class that "implements" this interface automatically has the interface's constants defined and, as the implementing class, needs to supply the function definitions for the interface's function prototypes that are all abstract methods (unless you declare the implementing class as abstract).
 
 ## Namespace
 
