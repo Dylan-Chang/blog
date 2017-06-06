@@ -11,7 +11,13 @@ Only time will tell if the PHP 5 release will be as successful as its two predec
 
 ## object－oriented 
 ### syntactic sugar
-When Zeev Suraski added the object-oriented syntax back in the days of PHP 3, it was added as "syntactic sugar for accessing collections." 
+When Zeev Suraski added the object-oriented syntax back in the days of PHP 3, it was added as "syntactic sugar for accessing collections."
+
+
+## Exception handling.
+
+PHP 5 adds the ability for the well-known TRy/throw/catch structured exception-handling paradigm. 
+
 
 ## Namespace
 
