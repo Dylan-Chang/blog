@@ -1,4 +1,17 @@
-object －　oriented 
+#Review PHP
+PHP 5 Power Programming
+
+  "The best way to be ready for the future is to invent it."
+
+  John Sculley
+
+Only time will tell if the PHP 5 release will be as successful as its two predecessors (PHP 3 and PHP 4). The new features and changes aim to rid PHP of any weaknesses it may have had and make sure that it stays in the lead as the world's best web-scripting language.
+
+只有时间会告诉我们如果PHP 5版本将作为其两位前任的成功(PHP 3和php 4)。新功能和更改旨在消除PHP的任何弱点可能有并确保它始终处于领先作为世界上最好的web脚本语言。
+
+## object－oriented 
+### syntactic sugar
+When Zeev Suraski added the object-oriented syntax back in the days of PHP 3, it was added as "syntactic sugar for accessing collections." 
 
 ## Namespace
 
