@@ -2,6 +2,9 @@
 ## Notice
 nginx 502 - 检查 php-fpm 启动 
 
+使用lsof
+lsof -i:端口号查看某个端口是否被占用 
+
 ## [Firewall](http)
 
 ### 开启80端口
