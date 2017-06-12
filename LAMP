@@ -1,8 +1,0 @@
-
-## Notice
-nginx 502 - 检查 php-fpm 启动 
-
-## firewall
-开启80
-
-## curl http://localhost
