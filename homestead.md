@@ -1,7 +1,7 @@
 ##  xshell 连接不上
 由于换了环境 电脑，重新配置了环境。
 
-vagrant up 后 可以使用 vagrant ssh 连接。xshell 连不上。 
+vagrant up 后 可以使用 vagrant ssh 连接。xshell 连不上。 没有本地网络（网线），用的无线网卡，链接Wi-Fi.
 
 
 
