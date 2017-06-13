@@ -1,7 +1,7 @@
 ##  xshell 连接不上
 由于换了环境 电脑，重新配置了环境。
 
-vagrant up 后 可以使用 vagrant ssh 连接。xshell 连不上。 没有本地网络（网线），用的无线网卡，链接Wi-Fi.
+vagrant up 后 可以使用 vagrant ssh 连接。xshell 连不上。 没有本地网络（网线），用的无线网卡，WLAN链接Wi-Fi.
 
 
 
@@ -16,6 +16,6 @@ vagrant up 后 可以使用 vagrant ssh 连接。xshell 连不上。 没有本�
 
 名称 putty 协议 tcp 主机ip 192.168.1.100(查的本地无线网ip) 子系统 10.0.2.15 子系统端口 22
 
-
+之后 xshell 192.168.1.100 22 登录.
 
 [参考](http://www.it165.net/os/html/201407/8878.html)
