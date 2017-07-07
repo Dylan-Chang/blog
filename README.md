@@ -12,33 +12,21 @@
 
 后台管理UI bootstrap/AdminLTE/metronic 
 
-NPM / React /Vue 
+NPM / React / Vue
+
+WebSocket 
 
 ## Algorithm 
+### Boolean Algebra (布尔代数)
 
 ## Computer Networking / HTTP
 
-
-## Computer Systems
+## Linux / Computer Systems
 
 ###  Concurrency and Parallelism 并发和并行
 
 ### 2-valued signals(bits)
-
-### Boolean Algebra (布尔代数)
-
-## Tool
-- git - gitweb
-- markdwon - Mon
-- mysql - MariaDB
-- nginx - openst
-- Homebrew - mac下的管理包
-- composer
-- blackfire.io - SensioLabs的Blackfire Profiler能自动收集代码执行数据，比如内存、CPU时间、硬盘I/O等，Homestead使得在应用中使用该profiler变得轻而易举。
-
-
-## Linux
-daemon
+daemon crontab
 
 Linux 之间发送文件
 scp LocalSettings.php root:----
@@ -54,6 +42,18 @@ fastcgi
 
 ## Mysql
 [centos7 mysql数据库安装和配置](http://www.cnblogs.com/starof/p/4680083.html)
+
+
+
+## Tool
+- git - gitweb
+- markdwon - Mon
+- mysql - MariaDB
+- nginx - openst
+- Homebrew - mac下的管理包
+- composer
+- blackfire.io - SensioLabs的Blackfire Profiler能自动收集代码执行数据，比如内存、CPU时间、硬盘I/O等，Homestead使得在应用中使用该profiler变得轻而易举。
+
 
 ## Book
 Computer Systems: A Programmer's Perspective - 深入理解计算机系统
