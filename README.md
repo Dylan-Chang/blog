@@ -6,22 +6,17 @@
 
 ## [Maps]()
 
-## [JS & ECMAScript](https://github.com/dichang/blog/blob/master/ECMAScript.md)
+## front-end 前端
 
-computer-science-thinking 
+[JS & ECMAScript](https://github.com/dichang/blog/blob/master/ECMAScript.md)
 
-computer-science-application
+后台管理UI bootstrap/AdminLTE/metronic 
 
-computer-science-foundations
+NPM / React /Vue 
 
 ## Algorithm 
 
-## Math（foundation）
-
-### algebra(代数)
-
-## Computer Networking
-
+## Computer Networking / HTTP
 
 
 ## Computer Systems
@@ -69,14 +64,5 @@ HTTP: The Definitive Guide by David Gourley / Brian Totty - HTTP权威指南
 
 Linux Command Line and Shell Scripting Bible
 
-## front-end 前端
 
-AdminLTE 后台管理ui
 
-metronic 后台管理UI
-
-## physics
-
-### entropy 熵
-
-[熵：宇宙的终极规则](https://ruanyf.github.io/survivor/future/entropy.html)
